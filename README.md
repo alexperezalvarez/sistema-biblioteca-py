@@ -1,4 +1,4 @@
-# Sistema de Gestión de Biblioteca - Biblioteca de Haku
+# Sistema de Gestión de Biblioteca - Biblioteca
 
 Este proyecto es un sistema interactivo para la gestión de una biblioteca, implementado en Python utilizando principios de Programación Orientada a Objetos (POO). El sistema permite realizar operaciones como registrar libros y usuarios, prestar y devolver libros, y visualizar información relacionada con la biblioteca.
 
